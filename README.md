@@ -6,8 +6,8 @@
 🌱 &nbsp;I’m interested in back-end/web development and data analytics.\
 💞️ &nbsp;I’m looking to collaborate on projects.\
 📫 &nbsp;You can reach me at: hoangtrongkhanh0402@gmail.com.\
-📄 &nbsp;Have a look at my [resumé](https://github.com/thoang43) for more details about me.\
-🌐 &nbsp;I'm working on my website, check back later.
+📄 &nbsp;Have a look at my [resumé](https://thoang43.github.io/assets/pdf/Khanh-Hoang-Resume.pdf) for more details about me.\
+🌐 &nbsp;My website: https://thoang43.github.io/.
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
